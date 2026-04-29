@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-04-29T17:06:26.994933",
+  "jobs": [
+    {
+      "title": "Senior Solutions Architect",
+      "company": "AWS Partner \u2014 Deloitte",
+      "location": "Dallas TX",
+      "salary": "$140k-$180k",
+      "requirements": "AWS SA Professional, 5+ years, serverless, multi-region, FinOps",
+      "posted": "2 days ago"
+    },
+    {
+      "title": "Cloud Solutions Architect",
+      "company": "Microsoft",
+      "location": "Remote",
+      "salary": "$130k-$160k",
+      "requirements": "AWS or Azure certified, IaC, containers, CI/CD",
+      "posted": "1 day ago"
+    },
+    {
+      "title": "AWS Solutions Architect",
+      "company": "Accenture",
+      "location": "Irving TX",
+      "salary": "$120k-$150k",
+      "requirements": "AWS certified, Python, Lambda, security, compliance",
+      "posted": "3 days ago"
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "Goldman Sachs",
+      "location": "Dallas TX",
+      "salary": "$150k-$200k",
+      "requirements": "Kubernetes, Terraform, AWS, Python, CI/CD pipelines",
+      "posted": "1 day ago"
+    },
+    {
+      "title": "Cloud Architect",
+      "company": "IBM",
+      "location": "Remote",
+      "salary": "$125k-$155k",
+      "requirements": "Multi-cloud, AWS, Azure, cost optimization, enterprise",
+      "posted": "4 days ago"
+    }
+  ],
+  "analysis": "# Job Ranking Analysis for Aishat Olatunji\n\n---\n\n## **Rank #1: AWS Solutions Architect \u2014 Accenture**\n\n**MATCH SCORE: 88/100**\n\n**WHY IT IS A GOOD FIT:**\n- Direct alignment with AWS SA Professional certification \u2713\n- Python and Lambda are explicitly required \u2014 you have both \u2713\n- Security/compliance focus matches your IAM security project experience \u2713\n- Irving TX is local to Texas \u2014 no relocation needed\n- Requirements don't specify years of experience, making your 2 years viable\n\n**GAPS TO ADDRESS:**\n- Compliance-specific experience may need highlighting (HIPAA, SOC2, PCI-DSS)\n- \"Security\" is broad \u2014 clarify your depth in IAM policies, encryption, and audit logging\n\n**APPLICATION TIP:**\nLead your resume with your IAM security project. Quantify it: \"Reduced IAM policy violations by X%\" or \"Implemented least-privilege access across Y accounts.\" Accenture consulting roles value client-facing communication \u2014 mention any stakeholder collaboration.\n\n---\n\n## **Rank #2: Cloud Solutions Architect \u2014 Microsoft**\n\n**MATCH SCORE: 82/100**\n\n**WHY IT IS A GOOD FIT:**\n- \"AWS or Azure certified\" \u2014 your AWS SA Pro qualifies \u2713\n- IaC requirement matches your Terraform experience \u2713\n- Remote work offers maximum flexibility\n- No strict years requirement listed\n- Your 30 projects demonstrate breadth Microsoft values for solution design\n\n**GAPS TO ADDRESS:**\n- Container experience not explicitly listed in your profile (Kubernetes/Docker)\n- CI/CD pipeline experience should be highlighted if you have it\n- Azure knowledge would strengthen your candidacy (even basic familiarity)\n\n**APPLICATION TIP:**\nIf you've used containers in any Lambda or ECS work, call it out. Microsoft respects AWS expertise but add a line like: \"Eager to expand multi-cloud proficiency with Azure.\" Show you're platform-agnostic in mindset.\n\n---\n\n## **Rank #3: Platform Engineer \u2014 Goldman Sachs**\n\n**MATCH SCORE: 75/100**\n\n**WHY IT IS A GOOD FIT:**\n- Terraform, AWS, Python \u2014 direct matches \u2713\n- Highest salary ceiling ($200k) with strong comp structure\n- Dallas location works for you\n- FinOps project experience aligns with finance industry cost-consciousness\n- Your chaos engineering background signals production-grade thinking they value\n\n**GAPS TO ADDRESS:**\n- **Kubernetes is required** \u2014 not listed in your skills (significant gap)\n- CI/CD pipelines need to be demonstrated explicitly\n- \"Platform Engineer\" is more infra-heavy than architect \u2014 different daily work\n\n**APPLICATION TIP:**\nIf you have *any* Kubernetes exposure (EKS, even tutorials), get hands-on with a quick project before applying. Goldman will technical screen hard on K8s. Frame your chaos engineering as \"production resilience\" \u2014 finance cares deeply about uptime.\n\n---\n\n## **Rank #4: Senior Solutions Architect \u2014 Deloitte**\n\n**MATCH SCORE: 68/100**\n\n**WHY IT IS A GOOD FIT:**\n- Perfect certification match (AWS SA Pro required) \u2713\n- Serverless, multi-region, FinOps \u2014 you've done all three \u2713\n- AWS Partner environment means deep AWS work\n- Dallas TX is convenient\n\n**GAPS TO ADDRESS:**\n- **5+ years required \u2014 you"
+}
